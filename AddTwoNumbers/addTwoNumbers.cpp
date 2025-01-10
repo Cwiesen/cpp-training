@@ -1,17 +1,8 @@
-#include <iostream>
+#include "io.cpp"
 
-int readNumber()
-{
-    std::cout << "Enter an integer: ";
-    int userInput{};
-    std::cin >> userInput;
-    return userInput;
-}
+int readNumber();
 
-void writeAnswer(int answer)
-{
-    std::cout << "Your sum is: " << answer << ".\n";
-}
+void writeAnswer(int answer);
 
 int main()
 {
