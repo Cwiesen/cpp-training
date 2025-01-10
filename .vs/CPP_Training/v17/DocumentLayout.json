@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chwez\\source\\repos\\CPP_Training\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45097CA2-972F-45D6-9E6F-09852C3B1571}|CPP_Training.vcxproj|C:\\Users\\chwez\\source\\repos\\CPP_Training\\CPP_Training.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45097CA2-972F-45D6-9E6F-09852C3B1571}|CPP_Training.vcxproj|solutionrelative:CPP_Training.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CPP_Training.cpp",
+              "DocumentMoniker": "C:\\Users\\chwez\\source\\repos\\CPP_Training\\CPP_Training.cpp",
+              "RelativeDocumentMoniker": "CPP_Training.cpp",
+              "ToolTip": "C:\\Users\\chwez\\source\\repos\\CPP_Training\\CPP_Training.cpp",
+              "RelativeToolTip": "CPP_Training.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T20:02:44.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
